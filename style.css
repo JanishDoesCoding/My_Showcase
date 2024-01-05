@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+}
+#Apps{
+    background-color: aquamarine;
+}
+h1{
+    color: rgb(0, 0, 0);
+    font-family: 'Are You Serious', cursive;
+}
+#Games{
+    background-color: burlywood;
+}
+#Chatbot{
+    background-color: chartreuse;
+}
+.line{
+    height: 9px;
+    width: 80px;
+    margin: 9px;
+    color: black;
+}
